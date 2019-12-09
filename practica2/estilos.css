@@ -1,0 +1,48 @@
+#contenedor {
+  background: rgb(150 220 122);
+}
+header{
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin: auto;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgb(75 36 1);
+  transition:background 1s;
+}
+header:hover {
+  background-color: lightblue;
+}
+img{
+  border-radius: 20px;
+}
+section{
+  display: flex;
+  justify-content: space-around;
+  background: green;
+margin: 20px;
+  border-radius: 20px;
+}
+video{
+  margin: 60px;
+}
+}
+.corvina{
+  margin-left: 20px;
+}
+h4{
+  color: white;
+  text-align: center;
+}
+aside{
+margin-left: 100px;
+
+}
+footer{
+  background: blue;
+  border-radius: 20px;
+  height: 50px;
+  color: white;
+}
